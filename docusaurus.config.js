@@ -112,39 +112,8 @@ const config = {
               },
               {
                 label: "IMGPrompt",
-                href: "https://prompt.newzone.top/",
-              },
-              {
-                label: "文字处理",
-                href: "https://tools.newzone.top/json-translate",
-              },
-              {
-                label: "工具收藏",
-                href: "https://nav.newzone.top",
-              },
-              {
-                label: "Find on Product Hunt",
-                href: "https://www.producthunt.com/posts/chatgpt-shortcut?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut",
-              },
-            ],
-          },
-          {
-            type: "dropdown",
-            label: "反馈建议",
-            position: "left",
-            items: [
-              {
-                label: "📝 提交反馈",
-                to: "/feedback",
-              },
-              {
-                label: "💬 加入 QQ 群",
-                href: "https://img.newzone.top/qq736094782.jpg?imageMogr2/format/webp",
-              },
-              {
-                label: "📺 加入 Discord",
-                href: "https://discord.gg/PZTQfJ4GjX",
-              },
+                href: "https://image.prompt.vercel.wapple.cn/",
+              }
             ],
           },
           // remove the language dropdown from the navbar (if you only have one language)
